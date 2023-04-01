@@ -19,5 +19,3 @@ npm run serve
 ```
 
 在项目根目录中的conf.js中填入您的OpenAIKey
-# ChatGPT-FrontEnd-Vue
-# chatgpt-frontend-vue3
